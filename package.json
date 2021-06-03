@@ -1,0 +1,20 @@
+{
+  "name": "loginpage",
+  "version": "1.0.0",
+  "description": "cara login dengan nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "garmen.yk@gmail.com"
+  },
+  "author": "harys rifai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  }
+}
